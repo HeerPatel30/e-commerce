@@ -38,3 +38,45 @@ export const category =[
         title:'Light Jacket'
     },
 ]
+
+export const propularproduct = [
+    {
+        id:1,
+        img:'https://images.meesho.com/images/products/317605566/djxh1_512.webp'
+
+    },
+    {
+        id:2,
+        img:'https://images.meesho.com/images/products/24636788/daf38_512.webp'
+
+    },
+    {
+        id:3,
+        img:'https://assets2.andaazfashion.com/media/catalog/product/cache/1/image/500x750/a12781a7f2ccb3d663f7fd01e1bd2e4e/b/o/bottle-green-resham-embroidered-viscose-panelled-style-lehenga-llcv117510-1.jpg'
+
+    },
+    {
+        id:4,
+        img:'https://img.guess.com/image/upload/f_auto,q_auto:eco,fl_strip_profile,dpr_1.5,fl_advanced_resize,fl_progressive,w_392,c_scale/v1/NA/Style/ECOMM/W4PD1IWGHC0-G9H2-ALT1'
+
+    },
+    {
+        id:5,
+        img:'https://img3.junaroad.com/uiproducts/20945254/pri_175_p-1707149622.jpg'
+
+    },
+    {
+        id:6,
+        img:'https://www.alamodelabel.in/cdn/shop/files/2D796CDB-CED1-4828-A4B7-F94536DAE86F_600x.jpg?v=1717500880'
+
+    },
+    {
+        id:7,
+        img:'https://s.alicdn.com/@sc04/kf/H0270feae17fa4cceb0867fc4436933d11.jpg_720x720q50.jpg'
+
+    },
+    {
+        id:8,
+        img:'https://i.pinimg.com/564x/19/45/ac/1945ac7dc5d22e23d20bc4bc6531e18f.jpg'
+    },
+]
